@@ -1,0 +1,6 @@
+{
+  "name": "가스 판매 데이터 분석 대시보드",
+  "description": "월별 가스 판매 엑셀 데이터를 업로드하여 품목별 막대 차트, 월별 매출 꺾은선 차트 및 최고·최저·평균 통계 요약을 실시간으로 확인하는 분석 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
